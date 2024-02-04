@@ -12,7 +12,7 @@ This curated dataset is available for public access on Kaggle (https://www.kaggl
 ####  Usage:
 The combined collection of "Harry Potter" and "The Lord of the Rings" texts within this dataset offers a wealth of literary content for training language models, particularly for tasks like text generation, language modeling, sentiment analysis, and more. The dataset's diverse narratives and unique writing styles contribute to building robust and contextually aware language models.
 
-![image](https://github.com/prashant9907/text-generation-using-t5/assets/110531109/74b46126-a39a-42a9-8a65-db6a41d78ba2)
+![image]()
 
 T5, or Text-to-Text Transfer Transformer, is an encoder-decoder model based on the Transformer architecture introduced by Vaswani et al. in the "Attention is All You Need" paper. Here's an overview of the architecture:
 
