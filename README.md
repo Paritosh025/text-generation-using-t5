@@ -5,7 +5,7 @@ This curated dataset on Kaggle comprises the entire collection of texts from the
 
 # About the Dataset:
  ## Obtaining the Dataset:
-This curated dataset is available for public access on Kaggle (https://www.kaggle.com/datasets/prashantkarwasra/books-dataset-text-generation/data). Users can download individual books or the entire collection for research, educational, or analytical purposes.
+This curated dataset is available for public access on Kaggle (https://www.kaggle.com/datasets/paritoshsharma25/books-dataset). Users can download individual books or the entire collection for research, educational, or analytical purposes.
 
 #### Content: The dataset includes the complete text corpus from the "Harry Potter" series (seven books) and "The Lord of the Rings" trilogy (including "The Hobbit" and "The Silmarillion"). These iconic fantasy novels feature rich narratives, diverse characters, and intricate world-building.The texts are provided in plain text format, divided into separate files or sections corresponding to each book/chapter.
 
